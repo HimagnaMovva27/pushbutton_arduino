@@ -19,7 +19,7 @@ This project demonstrates how to use a push button with Arduino to control an LE
 The push button acts as an input device. When pressed, it sends a HIGH signal to the Arduino, which then turns ON the LED. When the button is released, the signal becomes LOW, turning the LED OFF.
 
 ## Circuit Diagram
-![Circuit](push-button-circuit.png)
+![Circuit](pushbutton_circuit.png)
 ## Code
 The code is available here: [pushbutton.ino](pushbutton.ino)
 
